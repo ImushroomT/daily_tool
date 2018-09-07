@@ -1,0 +1,10 @@
+*.iml
+*.class
+target/
+bin/
+.settings/
+.idea/
+.project
+.classpath
+.metadata/
+MANIFEST.MF
